@@ -5,13 +5,13 @@
 <p align="center">
 	<b><i>Because putnbr and putstr aren’t enough</i></b><br>
 </p>
-
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/surfi89/ft_printf?color=lightblue" />
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/surfi89/ft_printf?color=critical" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/surfi89/ft_printf?color=yellow" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/surfi89/ft_printf?color=blue" />
 </p>
+<img width="1271" alt="Screen Shot 2022-10-25 at 11 58 59 PM" src="https://user-images.githubusercontent.com/96823772/197898544-6672f7ce-7245-4a68-b01d-a009116c8742.png">
 
 <h3 align="center">
 	<a href="#%EF%B8%8F-about">About</a>
